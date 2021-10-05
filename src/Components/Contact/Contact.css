@@ -1,0 +1,64 @@
+label{
+    color: wheat;
+}
+.Contact{
+    background-color:rgb(36, 36, 36);
+     width: 100vw;
+    height: 100vh; 
+    background-size: cover;
+    
+}
+
+@media(max-width:500px){
+    .Contact{
+      width: 100%;
+      height: auto;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+
+    }
+  }
+  @media(max-width:690px){
+    .Contact{
+      width: 100%;
+      height: auto;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+  
+@media (max-width: 947px){
+  .Contact{
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+}
+@media (max-width: 1104px) {
+  .Contact{
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}}
+
+@media (max-width: 991px) {
+  .Contact{
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+}
